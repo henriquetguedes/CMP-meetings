@@ -15,9 +15,13 @@ for n in mydivs:
         nomet = str(n.findAll(None,{"class": "name"})[0])
         nome = nomet[nomet.find(">")+1:nomet.find("<",nomet.find(">"))]
 
-        texto = str(n.findAll(None,{"class": "body"})[0])
-        print(nome)
-        print(texto)
+        texto = n.findAll(None,{"class": "body"})[0]
+
+        datapub = str(n.findAll(None,{"class": "date"})[0])
+        datapub = datapub[datapub.find(">")+1:datapub.find("<",datapub.find(">"))]
+        
+        print("Título: " +nome)
+        print("Publicado em " + datapub)
         print("\n|"*10)
 
         numero +=1
