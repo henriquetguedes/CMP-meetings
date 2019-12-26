@@ -8,7 +8,7 @@ from google.auth.transport.requests import Request
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/calendar']
-idcal = "po9mags4q7olbkc8mmg79dd8h4@group.calendar.google.com"
+idcal = "6so8m41445fnt1hfhla5r3c13k@group.calendar.google.com"
 
 def adiciona(nome, desc, dataini):
     creds = None

@@ -10,7 +10,8 @@
         "datap": "2016-06-16",
         "id_n": 1,
         "idext": "18084",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=OTdzZzJzNGtraDJ0ZzFpcDNrNzY0dG5zMXMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória e Ordem de Trabalhos para a sessão Ordinária da Assembleia Municipal, a realizar no dia 27 de junho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (27 de junho de 2016)"
     },
@@ -33,7 +34,8 @@
         "datap": "2016-06-30",
         "id_n": 2,
         "idext": "18356",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=cG9vcG5ra2o1cm1vdjgzb3NldW1icmMycGcgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória e Ordem de Trabalhos com os pontos adiados da última Assembleia Municipal Ordinária de 27 de junho, a serem apreciados no dia 7 de julho, às 21h00: 4.Apreciação sob o tema «Implementação no Município do Porto do Programa para consumo assistido previsto no artº65 do DL nº183/2011 de 21 de junho«. Assunto apresentado pelo Bloco de Esquerda ao abrigo do disposto no artº da Lei 75/2013 e do art.10 do Regimento da Assembleia Municipal. 5. Apreciação da informação do Sr. Presidente da Câmara acerca da atividade do Município, bem como da situação financeira do mesmo. Em anexo, também, a convocatória e a ordem de trabalhos para a sessão Extraordinária da Assembleia Municipal, a realizar no dia 7 de julho, com início às 22h30.",
         "titulo": "Sessão ordinária e extraordinária da Assembleia Municipal (7 de julho de 2016)"
     },
@@ -52,7 +54,8 @@
         "datap": "2016-07-12",
         "id_n": 3,
         "idext": "18549",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aHU1b21hbzExNHBoYWpvOWVtbmpwMXBvN2cgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de julho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (21 de julho de 2016)"
     },
@@ -71,7 +74,8 @@
         "datap": "2016-09-05",
         "id_n": 4,
         "idext": "19230",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aWxqaGpzb2syZnJkbjRtMXYyMGVwbjhrMXMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 12 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (12 de setembro de 2016)"
     },
@@ -90,7 +94,8 @@
         "datap": "2016-09-19",
         "id_n": 5,
         "idext": "19482",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=bWdtMGprdHI0YW9zcW1xMmVvcm1hNnRqbXMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão Ordinária da Assembleia Municipal, a realizar no dia 26 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (26 de setembro de 2016)"
     },
@@ -113,7 +118,8 @@
         "datap": "2016-10-19",
         "id_n": 6,
         "idext": "20094",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=NnR2NzI3YW1iMGw5ZWc2Z3Mwa3U3MTRubzQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 31 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (31 de outubro de 2016)"
     },
@@ -132,7 +138,8 @@
         "datap": "2016-10-27",
         "id_n": 7,
         "idext": "20295",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YTk0dmtpMmRoMWNwYmc2c2dtbDAxNTJzZzggNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 7 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (7 de novembro de 2016)"
     },
@@ -155,7 +162,8 @@
         "datap": "2016-11-15",
         "id_n": 8,
         "idext": "20661",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=dm05djJoZHZwbXFsZWk1Nm1kaDFib2M2cG8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória e Ordem de Trabalhos com os pontos adiados da última Assembleia Municipal Ordinária de 7 de novembro, a serem apreciados no dia 21 de novembro, às 21h00: 6. Apreciação da informação do Sr. Presidente da Câmara acerca da atividade do Município, bem como da situação financeira do mesmo. Em anexo, também, a convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de novembro, com início às 22h30.",
         "titulo": "Sessão ordinária e extraordinária da Assembleia Municipal (21 de novembro de 2016)"
     },
@@ -174,7 +182,8 @@
         "datap": "2016-12-13",
         "id_n": 9,
         "idext": "21284",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=NmZkcHQ2N2ZvN25nN2IxMWs2dm9sdmJxdW8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de dezembro, com início às 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (21 de dezembro de 2016)"
     },
@@ -193,7 +202,8 @@
         "datap": "2017-01-10",
         "id_n": 10,
         "idext": "21761",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=dG1xYWY2czl1bjFxdXVwM2s3bTVqYmMxODQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (16 de janeiro de 2017)"
     },
@@ -216,7 +226,8 @@
         "datap": "2017-01-30",
         "id_n": 11,
         "idext": "22163",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=dTlkcmczMm10Z2RuYWxnZWQxc3M4bW0xYmMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 6 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (6 de fevereiro de 2017)"
     },
@@ -235,7 +246,8 @@
         "datap": "2017-02-24",
         "id_n": 12,
         "idext": "22754",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=bnNmOWhubzdwcG0wb3I2OW0waXJ2aGhpZ28gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 6 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (6 de março de 2017)"
     },
@@ -258,7 +270,8 @@
         "datap": "2017-03-15",
         "id_n": 13,
         "idext": "23154",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=M3V1aWtrZmI3MmFoNGlncWRuaXQwaW1kcmMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (23 de março de 2017)"
     },
@@ -277,7 +290,8 @@
         "datap": "2017-04-05",
         "id_n": 14,
         "idext": "23634",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ODRmcnZoOTZpdTl2YTBmNTdxYWV2NWI5N2sgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 26 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (26 de abril de 2017)"
     },
@@ -292,7 +306,8 @@
         "datap": "2017-04-28",
         "id_n": 15,
         "idext": "24083",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MWJldm03Y25zZW5mM25kOGp2cjlhN3FhNTAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a continuação da Assembleia Municipal Ordinária de 26 de abril, a realizar no dia 8 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Assembleia Municipal Ordinária de 26 de abril (8 de maio de 2017)"
     },
@@ -315,7 +330,8 @@
         "datap": "2017-04-28",
         "id_n": 16,
         "idext": "24084",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=b2JyZHNwc3Jwb21pMGxodDRiaGk0M3ZxdTAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 8 de maio, pelas 22 horas e 30 minutos, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": " Sessão extraordinária da Assembleia Municipal (8 de maio de 2017) "
     },
@@ -334,7 +350,8 @@
         "datap": "2017-05-22",
         "id_n": 17,
         "idext": "24610",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=dGN2MXBkNnAxcWI0NXIyNTQxMmRmY21naGsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 29 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (29 de maio de 2017)"
     },
@@ -357,7 +374,8 @@
         "datap": "2017-06-19",
         "id_n": 18,
         "idext": "25269",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=b2ZjYnVyajFiNThkajhubTJ2OGc5NzhodTQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 19 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (19 de junho de 2017)"
     },
@@ -384,7 +402,8 @@
         "datap": "2017-06-21",
         "id_n": 19,
         "idext": "25355",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZnNjNGczbDBkOHFnNzhkdjFoM29vMnBpZmsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 19 de junho, a realizar no dia 26 de junho, pelas 21 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 19 de junho e Sessão extraordinária da Assembleia Municipal (26 de junho de 2017)"
     },
@@ -407,7 +426,8 @@
         "datap": "2017-06-27",
         "id_n": 20,
         "idext": "25499",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aWcwMzYyaWJkanU4M3F2dG0xcjd1aDA1bXMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 3 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (3 de julho de 2017)"
     },
@@ -430,7 +450,8 @@
         "datap": "2017-07-11",
         "id_n": 21,
         "idext": "25821",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=NmwxdXZrMGtvb2ZzNHM3aDhhMWw1Z282MzAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 19 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (19 de julho de 2017)"
     },
@@ -449,7 +470,8 @@
         "datap": "2017-08-24",
         "id_n": 22,
         "idext": "26600",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aG01cTNyc2FvOHNyaGQxYXBtbGRqbXRobWMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 6 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (6 de setembro de 2017)"
     },
@@ -472,7 +494,8 @@
         "datap": "2017-10-09",
         "id_n": 23,
         "idext": "27627",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MjVhYWFnbTh2ZHBmN2oxMmNrY285MWJ0ZHMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (16 de outubro de 2017)"
     },
@@ -495,7 +518,8 @@
         "datap": "2017-10-30",
         "id_n": 24,
         "idext": "28100",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=bTNjNzhmYjFmOTluc2UyM2kwM2oxbWQ2MXMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 6 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (6 de novembro de 2017)"
     },
@@ -518,7 +542,8 @@
         "datap": "2017-11-15",
         "id_n": 25,
         "idext": "28400",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=dW9hNGticnZsZ204anJ2N29wMjRwZWR1NTAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (23 de novembro de 2017)"
     },
@@ -537,7 +562,8 @@
         "datap": "2017-11-27",
         "id_n": 26,
         "idext": "31114",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=Y25rY2RrMDBsdmh2aTdzNGJ1dmZoMWQ4OTQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 4 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (4 de dezembro de 2017)"
     },
@@ -560,7 +586,8 @@
         "datap": "2017-12-11",
         "id_n": 27,
         "idext": "31562",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=Mm1nOHA1ZDYwZGw0MjV0dDlwbHA5NWplM2sgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 11 de dezembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (11 de dezembro de 2017)"
     },
@@ -587,7 +614,8 @@
         "datap": "2017-12-12",
         "id_n": 28,
         "idext": "31618",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aW5jZHQ3YXU4dWozcmlncXBnZ2NuN2w3cGMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 11 de dezembro, a realizar no dia 18 de dezembro, pelas 21 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 11 de dezembro e Sessão extraordinária da Assembleia Municipal (18 de dezembro de 2017)"
     },
@@ -610,7 +638,8 @@
         "datap": "2018-01-17",
         "id_n": 29,
         "idext": "32718",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZDB1M3AwaXNkcHRtNm1wYnJzbGVhbHFpZTggNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 29 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (29 de janeiro de 2018)"
     },
@@ -629,7 +658,8 @@
         "datap": "2018-01-30",
         "id_n": 30,
         "idext": "33038",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZTQ3NGFqYm1saXFyMDdrYWZwb3N1Mmt1bHMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 7 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (7 de fevereiro de 2018)"
     },
@@ -652,7 +682,8 @@
         "datap": "2018-02-15",
         "id_n": 31,
         "idext": "33484",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YzRwMmtmaGk3aXZnOHMzYjhmbzFjNmt2OWsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 26 de fevereiro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (26 de fevereiro de 2018)"
     },
@@ -675,7 +706,8 @@
         "datap": "2018-03-12",
         "id_n": 32,
         "idext": "34142",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZDJqcGo2cjV1dDc0YzVsZm8yMmZyMjFpYTQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 19 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (19 de março de 2018)"
     },
@@ -698,7 +730,8 @@
         "datap": "2018-04-13",
         "id_n": 33,
         "idext": "35114",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZzViZ2Jmc29lYjZ0NGF2dWpyMXJlaG1jZDAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (23 de abril de 2018)"
     },
@@ -717,7 +750,8 @@
         "datap": "2018-04-27",
         "id_n": 34,
         "idext": "35430",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MWpyZ3VzZWZ0NDJwdnZqaWxlNTM3Zzl1dm8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Irá realizar-se uma reunião da Assembleia Municipal do Porto, no dia 7 de maio de 2018, às 21 horas, na sala das sessões do edifício dos Paços do Concelho, para continuação da Sessão Ordinária iniciada no dia 23 de abril de 2018.Nesta reunião, por se tratar de uma continuação da Sessão Ordinária do dia 23 de abril, não há período de intervenção aberto ao público.",
         "titulo": "Continuação da Sessão Ordinária iniciada no dia 23 de abril de 2018 (7 de maio de 2018)"
     },
@@ -740,7 +774,8 @@
         "datap": "2018-05-15",
         "id_n": 35,
         "idext": "35858",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=azVha2NyNzB0dHViMWRndW1rM2NlcnZzMjAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (21 de maio de 2018)"
     },
@@ -759,7 +794,8 @@
         "datap": "2018-06-06",
         "id_n": 36,
         "idext": "36467",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=OThraHU5b2podTJkMXZuNmprcTZscTdjbmsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 18 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (18 de junho de 2018)"
     },
@@ -782,7 +818,8 @@
         "datap": "2018-06-15",
         "id_n": 37,
         "idext": "36712",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YWptMXM5cGc5aGkyZjg5OW12NTMybWNhMDggNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 25 de junho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (25 de junho de 2018)"
     },
@@ -809,7 +846,8 @@
         "datap": "2018-07-02",
         "id_n": 38,
         "idext": "37150",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=dDkwNGFrcmFtbGRqbGMxbzRuYTlzbGo1YzAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 25 de junho, a realizar no dia 9 de julho, pelas 21,30 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 25 de junho e Sessão extraordinária da Assembleia Municipal (9 de julho de 2018)"
     },
@@ -832,7 +870,8 @@
         "datap": "2018-07-24",
         "id_n": 39,
         "idext": "39778",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=OHVtNTJraGxsamE1dWk4NGltcWMxaWEyYnMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 31 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (31 de julho de 2018)"
     },
@@ -855,7 +894,8 @@
         "datap": "2018-09-03",
         "id_n": 40,
         "idext": "40572",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YWQ5ZWxpNGswN3U1M3Bna2F0MzBxdW84NDQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 10 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (10 de setembro de 2018)"
     },
@@ -878,7 +918,8 @@
         "datap": "2018-09-11",
         "id_n": 41,
         "idext": "40798",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MTRkOWhhMnNmaW1vZHBmZDQ0NjViazViYzQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 17 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (17 de setembro de 2018)"
     },
@@ -901,7 +942,8 @@
         "datap": "2018-09-24",
         "id_n": 42,
         "idext": "41138",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=N2pwYTUxZ243YmsxbThicHA0MTJva2RuamsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 1 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (1 de outubro de 2018)"
     },
@@ -924,7 +966,8 @@
         "datap": "2018-10-15",
         "id_n": 43,
         "idext": "41626",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YzE3YjViNGw2czJqdThwbmd0ZnJmbm82ZG8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 22 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (22 de outubro de 2018)"
     },
@@ -947,7 +990,8 @@
         "datap": "2018-11-02",
         "id_n": 44,
         "idext": "41993",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ODhrdnUzazgybjJkZHQ1dGVtMXZtNHRkbWcgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 12 de novembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (12 de novembro de 2018)"
     },
@@ -993,7 +1037,8 @@
         "datap": "2018-11-27",
         "id_n": 46,
         "idext": "42473",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=N2lwdG1naW1icXNyMTZwdjNobWdjbmg5dnMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 3 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (3 de dezembro de 2018)"
     },
@@ -1016,7 +1061,8 @@
         "datap": "2018-12-11",
         "id_n": 47,
         "idext": "42759",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YjIxZzFkdDluaWoyZmIydGh2NW5lMzd0cW8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 20 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (20 de dezembro de 2018)"
     },
@@ -1035,7 +1081,8 @@
         "datap": "2019-01-03",
         "id_n": 48,
         "idext": "43132",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=NzAzY2p2cnQxcjU0dDhxZGozMmtoMW9pZG8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 14 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (14 de janeiro de 2019)"
     },
@@ -1058,7 +1105,8 @@
         "datap": "2019-01-18",
         "id_n": 49,
         "idext": "43463",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YTlmZzVscmdkc2M4cnQ3b3F1Mm5qbmFpc2sgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 28 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (28 de janeiro de 2019)"
     },
@@ -1081,7 +1129,8 @@
         "datap": "2019-02-13",
         "id_n": 50,
         "idext": "43956",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=N2twb3FhamFrMGlvb2M3Y243c2hsczQzOTQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 25 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (25 de fevereiro de 2019)"
     },
@@ -1108,7 +1157,8 @@
         "datap": "2019-03-04",
         "id_n": 51,
         "idext": "44332",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MWkyN2cxcDBnaWdoNGR0MmNicnRycmluc2MgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 11 de março de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 25 de fevereiro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 25 de fevereiro e Sessão extraordinária da Assembleia Municipal (11 de março de 2019)"
     },
@@ -1131,7 +1181,8 @@
         "datap": "2019-03-18",
         "id_n": 52,
         "idext": "44569",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=b2FxdnRvbTlidmp1ZjUxYzRsazIydmVzYTAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 25 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (25 de março de 2019)"
     },
@@ -1154,7 +1205,8 @@
         "datap": "2019-04-15",
         "id_n": 53,
         "idext": "45356",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aWV2bm5paXQ2OXZkMmhtYmhpb2sydDFjMTAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 29 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (29 de abril de 2019)"
     },
@@ -1181,7 +1233,8 @@
         "datap": "2019-04-30",
         "id_n": 54,
         "idext": "45561",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aHIwaWdlaDlpODA5ZDZ0aGJqaWcyNGhsaW8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 6 de maio de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 29 de abril de 2019, seguida de Sessão Extraordinária, às 23h00, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 29 de abril e Sessão extraordinária da Assembleia Municipal (6 de maio de 2019)"
     },
@@ -1200,7 +1253,8 @@
         "datap": "2019-05-07",
         "id_n": 55,
         "idext": "45694",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YjVwaG5wbjljanFmZzBoN3Z0MnRpYWlnZGcgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 13 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (13 de maio de 2019)"
     },
@@ -1223,7 +1277,8 @@
         "datap": "2019-05-21",
         "id_n": 56,
         "idext": "45953",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=M21ydXE1Z2RrdmRuNGRvcm1rbHRvM3JnMWcgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 27 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (27 de maio de 2019)"
     },
@@ -1242,7 +1297,8 @@
         "datap": "2019-05-31",
         "id_n": 57,
         "idext": "46152",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=N25jOTRka3M1MDhlZGE1aGQ4Z2JqdnZhaHMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 12 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (12 de junho de 2019)"
     },
@@ -1261,7 +1317,8 @@
         "datap": "2019-06-11",
         "id_n": 58,
         "idext": "46332",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=OHRoNDZnMHBuMWtmOG5rZDE4cW5najVjYW8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 17 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (17 de junho de 2019)"
     },
@@ -1288,7 +1345,8 @@
         "datap": "2019-06-18",
         "id_n": 59,
         "idext": "46454",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=Ym9oNDJuc3RlcThxajBiZzB0MnV1ZjBtdW8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 25 de junho de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 12 de junho de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 12 de junho e Sessão extraordinária da Assembleia Municipal (25 de junho de 2019)"
     },
@@ -1311,7 +1369,8 @@
         "datap": "2019-07-01",
         "id_n": 60,
         "idext": "46650",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=cXRjM3FkbW1ocDBhYnNiN2Y0NzF2bm5pcmsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 8 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (8 de julho de 2019)"
     },
@@ -1330,7 +1389,8 @@
         "datap": "2019-07-09",
         "id_n": 61,
         "idext": "46812",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=amphcjNjb2wwNDkwajRrMGNnaWluN2lzdmMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 15 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (15 de julho de 2019)"
     },
@@ -1349,7 +1409,8 @@
         "datap": "2019-07-16",
         "id_n": 62,
         "idext": "46931",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=NDBkcDhjb2syMzVsaGhzcHZxaTZya2Y4ZGcgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 22 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (22 de julho de 2019)"
     },
@@ -1368,7 +1429,8 @@
         "datap": "2019-09-02",
         "id_n": 63,
         "idext": "47592",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZG52ZWZuZjJrbG5kc2pjcWswdWpvMmIybGsgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 11 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (11 de setembro de 2019)"
     },
@@ -1383,7 +1445,8 @@
         "datap": "2019-09-09",
         "id_n": 64,
         "idext": "47753",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZGhlbGozMDdnZW5vbDB2ZnJpbGl0cTE4ZDAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 16 de setembro 2019, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão Ordinária da Assembleia Municipal, a realizar no dia 16 de setembro 2019, pelas 21 horas"
     },
@@ -1398,7 +1461,8 @@
         "datap": "2019-09-17",
         "id_n": 65,
         "idext": "47888",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=cDhuMHJ1aWtlOGExcnAyOXFwYXJ2YnRsNG8gNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 23 de setembro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 16 de setembro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da sessão ordinária do dia 16 de setembro de 2019 (23 de setembro 2019)"
     },
@@ -1417,7 +1481,8 @@
         "datap": "2019-09-17",
         "id_n": 66,
         "idext": "47889",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=YjUzaWYzZGJvdjk4bGZzcGQ4M2hoZHE1bDAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de setembro, pelas 22 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de setembro 2019"
     },
@@ -1436,7 +1501,8 @@
         "datap": "2019-09-20",
         "id_n": 67,
         "idext": "47987",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MDBlcmM3NzAwbTAxOGE4M3U2ZGJnaTFrcjAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 30 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (30 de setembro de 2019)"
     },
@@ -1459,7 +1525,8 @@
         "datap": "2019-10-08",
         "id_n": 68,
         "idext": "48294",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=MDE1N3MwbnZuMjd0aTZqcDQza3BmZGZhZHMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 14 de outubro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 23 de setembro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 23 de setembro e Sessão extraordinária da Assembleia Municipal (14 de outubro de 2019)"
     },
@@ -1482,7 +1549,8 @@
         "datap": "2019-10-15",
         "id_n": 69,
         "idext": "48409",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=cHRiajc3ZjMwNm5qbWw3NDR1OThtcG0zNmMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Sessão Extraordinária da Assembleia agendada para o dia 21 de outubro de 2019, às 21h00, foi desconvocada.",
         "titulo": "Desconvocada a Sessão extraordinária da Assembleia Municipal (21 de outubro de 2019)"
     },
@@ -1505,7 +1573,8 @@
         "datap": "2019-10-28",
         "id_n": 70,
         "idext": "48614",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=aHB0Y3VnMjJmZTUyZ2I1YzMwN2txOWM1djggNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 4 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão ordinária da Assembleia Municipal (4 de novembro de 2019)"
     },
@@ -1532,8 +1601,8 @@
         "datap": "2019-11-05",
         "id_n": 71,
         "idext": "48765",
-        "link": "https://www.google.com/calendar/event?eid=dDZwbjZmMW91a2w5M2FjN3Y2MmlodWpnNWcgcG85bWFnczRxN29sYmtjOG1tZzc5ZGQ4aDRAZw",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=cnZwNWsxN2luaTF0ZzAzODE2MGhkMjRocDQgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatórias para as reuniões da Assembleia Municipal do Porto, no dia 11 de novembro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 4 de novembro de 2019, seguida de uma Sessão Extraordinária, às 22h30, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 4 de novembro e Sessão extraordinária da Assembleia Municipal (11 de novembro de 2019)"
     },
@@ -1556,8 +1625,8 @@
         "datap": "2019-11-26",
         "id_n": 72,
         "idext": "49134",
-        "link": "https://www.google.com/calendar/event?eid=NjFuc3JkdTc0Nm5zdDg2MzB2aDg3ZGhvbm8gcG85bWFnczRxN29sYmtjOG1tZzc5ZGQ4aDRAZw",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=ZGc1cWpnbXNtNW9kNGl0OThtYjBxaDdoN2sgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 2 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (2 de dezembro de 2019)"
     },
@@ -1580,8 +1649,8 @@
         "datap": "2019-12-09",
         "id_n": 73,
         "idext": "49359",
-        "link": "https://www.google.com/calendar/event?eid=N3JpdWNqdTUyaXQ4Zmhoc3Zra3AwNmFxNG8gcG85bWFnczRxN29sYmtjOG1tZzc5ZGQ4aDRAZw",
-        "present": false,
+        "link": "https://www.google.com/calendar/event?eid=azFwcnQxbjNwcXBibzdsazF0Y2JhYnNpamMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (16 de dezembro de 2019)"
     }

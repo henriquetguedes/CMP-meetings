@@ -11,7 +11,6 @@ listaexist = [d['idext'] for d in entradas]
 #entradas = []
 url = "http://www.cm-porto.pt/editais/c/assembleia-municipal"
 page = requests.get(url)
-idcal = "po9mags4q7olbkc8mmg79dd8h4"
 
 sopa = bsoup(page.content, 'html.parser')
 mydivs = sopa.findAll("div", {"class": "object 87"})
@@ -72,7 +71,9 @@ for n in mydivs:
                 "anexos": anexos,
                 "link": ""
             }
-
+            #elimina da lista de eventos a adicionar os que derem erro de data <-- ver mais tarde
+            if dataeve == "erro":
+                entrada['present'] = True
             entradas.append(entrada)
             adicionados +=1
 
@@ -85,24 +86,26 @@ eventados = 0
 
 for eve in range(len(entradas)):
     if entradas[eve]['present'] == False:
-        
-        strteste = "<strong>Descrição:</strong><br>"+entradas[eve]['texto']
-        if len(entradas[eve]['anexos'])>0:
-            strteste = strteste+"<br><br><strong>Documentos:</strong><ul>"
-            for an in range(len(entradas[eve]['anexos'])):
-                strteste = strteste+'<li><a href="'+entradas[eve]['anexos'][an][0]+'">'+entradas[eve]['anexos'][an][1]+'</a></li>'
-            strteste = strteste+"</ul>"
-        strteste = strteste + "<em><br>PROCESSADO POR COMPUTADOR<br>ID único: %s<br>ID evento: %s" %(entradas[eve]['idext'],entradas[eve]['id_n'])+'</em>'
-        aaadicio = {
-            "nome": entradas[eve]['titulo'],
-            "desc": strteste,
-            "dataini": entradas[eve]['datae']
-        }
-        link = adiciona(**aaadicio)
+        try:
+            strteste = "<strong>Descrição:</strong><br>"+entradas[eve]['texto']
+            if len(entradas[eve]['anexos'])>0:
+                strteste = strteste+"<br><br><strong>Documentos:</strong><ul>"
+                for an in range(len(entradas[eve]['anexos'])):
+                    strteste = strteste+'<li><a href="'+entradas[eve]['anexos'][an][0]+'">'+entradas[eve]['anexos'][an][1]+'</a></li>'
+                strteste = strteste+"</ul>"
+            strteste = strteste + "<em><br>PROCESSADO POR COMPUTADOR<br>ID único: %s<br>ID evento: %s" %(entradas[eve]['idext'],entradas[eve]['id_n'])+'</em>'
+            aaadicio = {
+                "nome": entradas[eve]['titulo'],
+                "desc": strteste,
+                "dataini": entradas[eve]['datae']
+            }
+            link = adiciona(**aaadicio)
 
-        entradas[eve]['link'] = link
-        entradas[eve]['present'] = True
-        eventados +=1
+            entradas[eve]['link'] = link
+            entradas[eve]['present'] = True
+            eventados +=1
+        except Exception as e:
+                print(e)
 
 print("Foram adicionados %s novos eventos ao calendário" %(eventados))
 
