@@ -1,3 +1,4 @@
+from addcal import *
 import requests
 import re
 import json
@@ -25,7 +26,7 @@ for n in mydivs:
         regex = 'class="info readspeakerInfo(\d*?)"'
         for m in re.findall(regex,str(n.findAll(None,{"class": "detalhe"})[0])):
             idext = m
-        #verifica
+        #verifica se ja esta na lista
         if idext in listaexist:
             pass
         else:
@@ -49,7 +50,6 @@ for n in mydivs:
             dataeve = re.findall(regex,nome)
             try:
                 dataeve = dataeve[0][2]+"-"+dataeve[0][1].replace("dezembro","12").replace("novembro","11").replace("outubro","10").replace("setembro","09").replace("agosto","08").replace("julho","07").replace("junho","06").replace("maio","05").replace("abril","04").replace("março","03").replace("fevereiro","02").replace("janeiro","01")+"-"+str("{:02d}".format(int(dataeve[0][0])))
-                #print(dataeve)
                 if (datetime.strptime(dataeve,"%Y-%m-%d")-datetime.strptime(datapub,"%Y-%m-%d")).days < 1:
                     print("EVENTO NO MESMO DIA OU JÁ PASSADO \nPublicado a : %s\nPrevisto para: %s" %(datapub,dataeve))
             except Exception as e:
@@ -69,7 +69,8 @@ for n in mydivs:
                 "datae": dataeve,
                 "present": False,
                 "texto": textonorm,
-                "anexos": anexos
+                "anexos": anexos,
+                "link": ""
             }
 
             entradas.append(entrada)
@@ -80,8 +81,31 @@ print("Foram descobertos %s eventos relevantes, adicionados %s novos" %(numero,a
 with open("output.json", "w", encoding="utf-8") as f:
     json.dump(entradas, f, default=str, indent=4, sort_keys=True,ensure_ascii=False)
 
-#with open("sopa.html", "w") as file:
-#    file.write(str(sopa.body.prettify()))
-#
-#with open("teste.txt", "w") as file:
-#    file.write(str(mydivs))
+eventados = 0
+
+for eve in range(len(entradas)):
+    if entradas[eve]['present'] == False:
+        
+        strteste = "<strong>Descrição:</strong><br>"+entradas[eve]['texto']
+        if len(entradas[eve]['anexos'])>0:
+            strteste = strteste+"<br><br><strong>Documentos:</strong><ul>"
+            for an in range(len(entradas[eve]['anexos'])):
+                strteste = strteste+'<li><a href="'+entradas[eve]['anexos'][an][0]+'">'+entradas[eve]['anexos'][an][1]+'</a></li>'
+            strteste = strteste+"</ul>"
+        strteste = strteste + "<em><br>PROCESSADO POR COMPUTADOR<br>ID único: %s<br>ID evento: %s" %(entradas[eve]['idext'],entradas[eve]['id_n'])+'</em>'
+        aaadicio = {
+            "nome": entradas[eve]['titulo'],
+            "desc": strteste,
+            "dataini": entradas[eve]['datae']
+        }
+        link = adiciona(**aaadicio)
+
+        entradas[eve]['link'] = link
+        entradas[eve]['present'] = True
+        eventados +=1
+
+print("Foram adicionados %s novos eventos ao calendário" %(eventados))
+
+with open("output.json", "w", encoding="utf-8") as f:
+    json.dump(entradas, f, default=str, indent=4, sort_keys=True,ensure_ascii=False)
+
