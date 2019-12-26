@@ -1,586 +1,1585 @@
 [
     {
-        "datae": "2019-12-16",
-        "datap": "2019-12-09",
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20e%20Ordem%20de%20trabalhos.pdf",
+                "Convocatória e Ordem de Trabalhos da AM de 27-06-16"
+            ]
+        ],
+        "datae": "2016-06-27",
+        "datap": "2016-06-16",
         "id_n": 1,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (16 de dezembro de 2019)"
-    },
-    {
-        "datae": "2019-12-02",
-        "datap": "2019-11-26",
-        "id_n": 2,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 2 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (2 de dezembro de 2019)"
-    },
-    {
-        "datae": "2019-11-11",
-        "datap": "2019-11-05",
-        "id_n": 3,
-        "present": false,
-        "texto": "Convocatórias para as reuniões da Assembleia Municipal do Porto, no dia 11 de novembro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 4 de novembro de 2019, seguida de uma Sessão Extraordinária, às 22h30, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 4 de novembro e Sessão extraordinária da Assembleia Municipal (11 de novembro de 2019)"
-    },
-    {
-        "datae": "2019-11-04",
-        "datap": "2019-10-28",
-        "id_n": 4,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 4 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (4 de novembro de 2019)"
-    },
-    {
-        "datae": "2019-10-21",
-        "datap": "2019-10-15",
-        "id_n": 5,
-        "present": false,
-        "texto": "Sessão Extraordinária da Assembleia agendada para o dia 21 de outubro de 2019, às 21h00, foi desconvocada.",
-        "titulo": "Desconvocada a Sessão extraordinária da Assembleia Municipal (21 de outubro de 2019)"
-    },
-    {
-        "datae": "2019-10-14",
-        "datap": "2019-10-08",
-        "id_n": 6,
-        "present": false,
-        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 14 de outubro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 23 de setembro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 23 de setembro e Sessão extraordinária da Assembleia Municipal (14 de outubro de 2019)"
-    },
-    {
-        "datae": "2019-09-30",
-        "datap": "2019-09-20",
-        "id_n": 7,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 30 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (30 de setembro de 2019)"
-    },
-    {
-        "datae": "2019-09-23",
-        "datap": "2019-09-17",
-        "id_n": 8,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de setembro, pelas 22 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de setembro 2019"
-    },
-    {
-        "datae": "2019-09-16",
-        "datap": "2019-09-17",
-        "id_n": 9,
-        "present": false,
-        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 23 de setembro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 16 de setembro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da sessão ordinária do dia 16 de setembro de 2019 (23 de setembro 2019)"
-    },
-    {
-        "datae": "2019-09-16",
-        "datap": "2019-09-09",
-        "id_n": 10,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 16 de setembro 2019, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão Ordinária da Assembleia Municipal, a realizar no dia 16 de setembro 2019, pelas 21 horas"
-    },
-    {
-        "datae": "2019-09-11",
-        "datap": "2019-09-02",
-        "id_n": 11,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 11 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (11 de setembro de 2019)"
-    },
-    {
-        "datae": "2019-07-22",
-        "datap": "2019-07-16",
-        "id_n": 12,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 22 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (22 de julho de 2019)"
-    },
-    {
-        "datae": "2019-07-15",
-        "datap": "2019-07-09",
-        "id_n": 13,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 15 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (15 de julho de 2019)"
-    },
-    {
-        "datae": "2019-07-08",
-        "datap": "2019-07-01",
-        "id_n": 14,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 8 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (8 de julho de 2019)"
-    },
-    {
-        "datae": "2019-06-25",
-        "datap": "2019-06-18",
-        "id_n": 15,
-        "present": false,
-        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 25 de junho de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 12 de junho de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 12 de junho e Sessão extraordinária da Assembleia Municipal (25 de junho de 2019)"
-    },
-    {
-        "datae": "2019-06-17",
-        "datap": "2019-06-11",
-        "id_n": 16,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 17 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (17 de junho de 2019)"
-    },
-    {
-        "datae": "2019-06-12",
-        "datap": "2019-05-31",
-        "id_n": 17,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 12 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (12 de junho de 2019)"
-    },
-    {
-        "datae": "2019-05-27",
-        "datap": "2019-05-21",
-        "id_n": 18,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 27 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (27 de maio de 2019)"
-    },
-    {
-        "datae": "2019-05-13",
-        "datap": "2019-05-07",
-        "id_n": 19,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 13 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (13 de maio de 2019)"
-    },
-    {
-        "datae": "2019-05-06",
-        "datap": "2019-04-30",
-        "id_n": 20,
-        "present": false,
-        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 6 de maio de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 29 de abril de 2019, seguida de Sessão Extraordinária, às 23h00, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 29 de abril e Sessão extraordinária da Assembleia Municipal (6 de maio de 2019)"
-    },
-    {
-        "datae": "2019-04-29",
-        "datap": "2019-04-15",
-        "id_n": 21,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 29 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (29 de abril de 2019)"
-    },
-    {
-        "datae": "2019-03-25",
-        "datap": "2019-03-18",
-        "id_n": 22,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 25 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (25 de março de 2019)"
-    },
-    {
-        "datae": "2019-03-11",
-        "datap": "2019-03-04",
-        "id_n": 23,
-        "present": false,
-        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 11 de março de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 25 de fevereiro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 25 de fevereiro e Sessão extraordinária da Assembleia Municipal (11 de março de 2019)"
-    },
-    {
-        "datae": "2019-02-25",
-        "datap": "2019-02-13",
-        "id_n": 24,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 25 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (25 de fevereiro de 2019)"
-    },
-    {
-        "datae": "2019-01-28",
-        "datap": "2019-01-18",
-        "id_n": 25,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 28 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (28 de janeiro de 2019)"
-    },
-    {
-        "datae": "2019-01-14",
-        "datap": "2019-01-03",
-        "id_n": 26,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 14 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (14 de janeiro de 2019)"
-    },
-    {
-        "datae": "2018-12-20",
-        "datap": "2018-12-11",
-        "id_n": 27,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 20 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (20 de dezembro de 2018)"
-    },
-    {
-        "datae": "2018-12-03",
-        "datap": "2018-11-27",
-        "id_n": 28,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 3 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (3 de dezembro de 2018)"
-    },
-    {
-        "datae": "erro",
-        "datap": "2018-11-13",
-        "id_n": 29,
-        "present": false,
-        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no dia 19 de novembro de 2018, às 21h00, em continuação da Sessão Ordinária iniciada no dia 12 de novembro de 2018, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 12 de novembro e Sessão extraordinária da Assembleia Municipal (19 de novemmbro de 2018)"
-    },
-    {
-        "datae": "2018-11-12",
-        "datap": "2018-11-02",
-        "id_n": 30,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 12 de novembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (12 de novembro de 2018)"
-    },
-    {
-        "datae": "2018-10-22",
-        "datap": "2018-10-15",
-        "id_n": 31,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 22 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (22 de outubro de 2018)"
-    },
-    {
-        "datae": "2018-10-01",
-        "datap": "2018-09-24",
-        "id_n": 32,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 1 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (1 de outubro de 2018)"
-    },
-    {
-        "datae": "2018-09-17",
-        "datap": "2018-09-11",
-        "id_n": 33,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 17 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (17 de setembro de 2018)"
-    },
-    {
-        "datae": "2018-09-10",
-        "datap": "2018-09-03",
-        "id_n": 34,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 10 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (10 de setembro de 2018)"
-    },
-    {
-        "datae": "2018-07-31",
-        "datap": "2018-07-24",
-        "id_n": 35,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 31 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (31 de julho de 2018)"
-    },
-    {
-        "datae": "2018-07-09",
-        "datap": "2018-07-02",
-        "id_n": 36,
-        "present": false,
-        "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 25 de junho, a realizar no dia 9 de julho, pelas 21,30 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 25 de junho e Sessão extraordinária da Assembleia Municipal (9 de julho de 2018)"
-    },
-    {
-        "datae": "2018-06-25",
-        "datap": "2018-06-15",
-        "id_n": 37,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 25 de junho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (25 de junho de 2018)"
-    },
-    {
-        "datae": "2018-06-18",
-        "datap": "2018-06-06",
-        "id_n": 38,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 18 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (18 de junho de 2018)"
-    },
-    {
-        "datae": "2018-05-21",
-        "datap": "2018-05-15",
-        "id_n": 39,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (21 de maio de 2018)"
-    },
-    {
-        "datae": "2018-04-23",
-        "datap": "2018-04-27",
-        "id_n": 40,
-        "present": false,
-        "texto": "Irá realizar-se uma reunião da Assembleia Municipal do Porto, no dia 7 de maio de 2018, às 21 horas, na sala das sessões do edifício dos Paços do Concelho, para continuação da Sessão Ordinária iniciada no dia 23 de abril de 2018.Nesta reunião, por se tratar de uma continuação da Sessão Ordinária do dia 23 de abril, não há período de intervenção aberto ao público.",
-        "titulo": "Continuação da Sessão Ordinária iniciada no dia 23 de abril de 2018 (7 de maio de 2018)"
-    },
-    {
-        "datae": "2018-04-23",
-        "datap": "2018-04-13",
-        "id_n": 41,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (23 de abril de 2018)"
-    },
-    {
-        "datae": "2018-03-19",
-        "datap": "2018-03-12",
-        "id_n": 42,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 19 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (19 de março de 2018)"
-    },
-    {
-        "datae": "2018-02-26",
-        "datap": "2018-02-15",
-        "id_n": 43,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 26 de fevereiro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (26 de fevereiro de 2018)"
-    },
-    {
-        "datae": "2018-02-07",
-        "datap": "2018-01-30",
-        "id_n": 44,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 7 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (7 de fevereiro de 2018)"
-    },
-    {
-        "datae": "2018-01-29",
-        "datap": "2018-01-17",
-        "id_n": 45,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 29 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (29 de janeiro de 2018)"
-    },
-    {
-        "datae": "2017-12-18",
-        "datap": "2017-12-12",
-        "id_n": 46,
-        "present": false,
-        "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 11 de dezembro, a realizar no dia 18 de dezembro, pelas 21 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 11 de dezembro e Sessão extraordinária da Assembleia Municipal (18 de dezembro de 2017)"
-    },
-    {
-        "datae": "2017-12-11",
-        "datap": "2017-12-11",
-        "id_n": 47,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 11 de dezembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (11 de dezembro de 2017)"
-    },
-    {
-        "datae": "2017-12-04",
-        "datap": "2017-11-27",
-        "id_n": 48,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 4 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (4 de dezembro de 2017)"
-    },
-    {
-        "datae": "2017-11-23",
-        "datap": "2017-11-15",
-        "id_n": 49,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (23 de novembro de 2017)"
-    },
-    {
-        "datae": "2017-11-06",
-        "datap": "2017-10-30",
-        "id_n": 50,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 6 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (6 de novembro de 2017)"
-    },
-    {
-        "datae": "2017-10-16",
-        "datap": "2017-10-09",
-        "id_n": 51,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (16 de outubro de 2017)"
-    },
-    {
-        "datae": "2017-09-06",
-        "datap": "2017-08-24",
-        "id_n": 52,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 6 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (6 de setembro de 2017)"
-    },
-    {
-        "datae": "2017-07-19",
-        "datap": "2017-07-11",
-        "id_n": 53,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 19 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (19 de julho de 2017)"
-    },
-    {
-        "datae": "2017-07-03",
-        "datap": "2017-06-27",
-        "id_n": 54,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 3 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (3 de julho de 2017)"
-    },
-    {
-        "datae": "2017-06-26",
-        "datap": "2017-06-21",
-        "id_n": 55,
-        "present": false,
-        "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 19 de junho, a realizar no dia 26 de junho, pelas 21 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Sessão ordinária do dia 19 de junho e Sessão extraordinária da Assembleia Municipal (26 de junho de 2017)"
-    },
-    {
-        "datae": "2017-06-19",
-        "datap": "2017-06-19",
-        "id_n": 56,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 19 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (19 de junho de 2017)"
-    },
-    {
-        "datae": "2017-05-29",
-        "datap": "2017-05-22",
-        "id_n": 57,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 29 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (29 de maio de 2017)"
-    },
-    {
-        "datae": "2017-05-08",
-        "datap": "2017-04-28",
-        "id_n": 58,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 8 de maio, pelas 22 horas e 30 minutos, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": " Sessão extraordinária da Assembleia Municipal (8 de maio de 2017) "
-    },
-    {
-        "datae": "2017-05-08",
-        "datap": "2017-04-28",
-        "id_n": 59,
-        "present": false,
-        "texto": "Convocatória para a continuação da Assembleia Municipal Ordinária de 26 de abril, a realizar no dia 8 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Continuação da Assembleia Municipal Ordinária de 26 de abril (8 de maio de 2017)"
-    },
-    {
-        "datae": "2017-04-26",
-        "datap": "2017-04-05",
-        "id_n": 60,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 26 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (26 de abril de 2017)"
-    },
-    {
-        "datae": "2017-03-23",
-        "datap": "2017-03-15",
-        "id_n": 61,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (23 de março de 2017)"
-    },
-    {
-        "datae": "2017-03-06",
-        "datap": "2017-02-24",
-        "id_n": 62,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 6 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (6 de março de 2017)"
-    },
-    {
-        "datae": "2017-02-06",
-        "datap": "2017-01-30",
-        "id_n": 63,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 6 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (6 de fevereiro de 2017)"
-    },
-    {
-        "datae": "2017-01-16",
-        "datap": "2017-01-10",
-        "id_n": 64,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (16 de janeiro de 2017)"
-    },
-    {
-        "datae": "2016-12-21",
-        "datap": "2016-12-13",
-        "id_n": 65,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de dezembro, com início às 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (21 de dezembro de 2016)"
-    },
-    {
-        "datae": "2016-11-21",
-        "datap": "2016-11-15",
-        "id_n": 66,
-        "present": false,
-        "texto": "Convocatória e Ordem de Trabalhos com os pontos adiados da última Assembleia Municipal Ordinária de 7 de novembro, a serem apreciados no dia 21 de novembro, às 21h00: 6. Apreciação da informação do Sr. Presidente da Câmara acerca da atividade do Município, bem como da situação financeira do mesmo. Em anexo, também, a convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de novembro, com início às 22h30.",
-        "titulo": "Sessão ordinária e extraordinária da Assembleia Municipal (21 de novembro de 2016)"
-    },
-    {
-        "datae": "2016-11-07",
-        "datap": "2016-10-27",
-        "id_n": 67,
-        "present": false,
-        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 7 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (7 de novembro de 2016)"
-    },
-    {
-        "datae": "2016-10-31",
-        "datap": "2016-10-19",
-        "id_n": 68,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 31 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (31 de outubro de 2016)"
-    },
-    {
-        "datae": "2016-09-26",
-        "datap": "2016-09-19",
-        "id_n": 69,
-        "present": false,
-        "texto": "Convocatória para a sessão Ordinária da Assembleia Municipal, a realizar no dia 26 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (26 de setembro de 2016)"
-    },
-    {
-        "datae": "2016-09-12",
-        "datap": "2016-09-05",
-        "id_n": 70,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 12 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (12 de setembro de 2016)"
-    },
-    {
-        "datae": "2016-07-21",
-        "datap": "2016-07-12",
-        "id_n": 71,
-        "present": false,
-        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de julho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão extraordinária da Assembleia Municipal (21 de julho de 2016)"
-    },
-    {
+        "idext": "18084",
+        "present": false,
+        "texto": "Convocatória e Ordem de Trabalhos para a sessão Ordinária da Assembleia Municipal, a realizar no dia 27 de junho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (27 de junho de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AMO%207%20jun.pdf",
+                "Convocatória e Ordem de Trabalhos da AM ordinária de 07-06-16 "
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AME%207%20jun..pdf",
+                "Convocatória da AM extraordinária de 07-06-16 "
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Ordem%20de%20Trabalhos.pdf",
+                "Ordem de trabalhos da AM extraordinária"
+            ]
+        ],
         "datae": "2016-07-07",
         "datap": "2016-06-30",
-        "id_n": 72,
+        "id_n": 2,
+        "idext": "18356",
         "present": false,
         "texto": "Convocatória e Ordem de Trabalhos com os pontos adiados da última Assembleia Municipal Ordinária de 27 de junho, a serem apreciados no dia 7 de julho, às 21h00: 4.Apreciação sob o tema «Implementação no Município do Porto do Programa para consumo assistido previsto no artº65 do DL nº183/2011 de 21 de junho«. Assunto apresentado pelo Bloco de Esquerda ao abrigo do disposto no artº da Lei 75/2013 e do art.10 do Regimento da Assembleia Municipal. 5. Apreciação da informação do Sr. Presidente da Câmara acerca da atividade do Município, bem como da situação financeira do mesmo. Em anexo, também, a convocatória e a ordem de trabalhos para a sessão Extraordinária da Assembleia Municipal, a realizar no dia 7 de julho, com início às 22h30.",
         "titulo": "Sessão ordinária e extraordinária da Assembleia Municipal (7 de julho de 2016)"
     },
     {
-        "datae": "2016-06-27",
-        "datap": "2016-06-16",
-        "id_n": 73,
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AM%2021%20jul..pdf",
+                "Convocatória da AM extraordinária de 21-07-16"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT.pdf",
+                "ORDEM DE TRABALHOS"
+            ]
+        ],
+        "datae": "2016-07-21",
+        "datap": "2016-07-12",
+        "id_n": 3,
+        "idext": "18549",
         "present": false,
-        "texto": "Convocatória e Ordem de Trabalhos para a sessão Ordinária da Assembleia Municipal, a realizar no dia 27 de junho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
-        "titulo": "Sessão ordinária da Assembleia Municipal (27 de junho de 2016)"
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de julho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (21 de julho de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%2012-09.pdf",
+                "Convocatória da AM extraordinária de 12-09-16"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT.pdf",
+                "ORDEM DE TRABALHOS"
+            ]
+        ],
+        "datae": "2016-09-12",
+        "datap": "2016-09-05",
+        "id_n": 4,
+        "idext": "19230",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 12 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (12 de setembro de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%2026-09-2016.pdf",
+                "Convocatória da AM de 26-09-2016"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT%2029-09.pdf",
+                "ORDEM DE TRABALHOS"
+            ]
+        ],
+        "datae": "2016-09-26",
+        "datap": "2016-09-19",
+        "id_n": 5,
+        "idext": "19482",
+        "present": false,
+        "texto": "Convocatória para a sessão Ordinária da Assembleia Municipal, a realizar no dia 26 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (26 de setembro de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%2031-10.pdf",
+                "Convocatória da AM de 31-10-2016"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT%2031-10.pdf",
+                "ORDEM DE TRABALHOS"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/DELIBERA%C3%87%C3%95ES%20AM/edital%20AM%202016-10-312016-11-07-114231.pdf",
+                "Deliberações da AM (31 de outubro de 2016)"
+            ]
+        ],
+        "datae": "2016-10-31",
+        "datap": "2016-10-19",
+        "id_n": 6,
+        "idext": "20094",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 31 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (31 de outubro de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20Assembleia%20Municipal%20Ordin%C3%A1ria%2007-11.pdf",
+                "Convocatória da AM de 07-11-2016 "
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT.pdf",
+                "ORDEM DE TRABALHOS"
+            ]
+        ],
+        "datae": "2016-11-07",
+        "datap": "2016-10-27",
+        "id_n": 7,
+        "idext": "20295",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 7 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (7 de novembro de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AMO%2021-11-2016.pdf",
+                "Convocatória e ordem de trabalho da AM ordinária de 21-11-2016"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AME%2021-11-2016.pdf",
+                "Convocatória da AM extraordinária de 21-11-2016"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT%2021-11.pdf",
+                "ORDEM DE TRABALHOS DA AM EXTRAORDINÁRIA"
+            ]
+        ],
+        "datae": "2016-11-21",
+        "datap": "2016-11-15",
+        "id_n": 8,
+        "idext": "20661",
+        "present": false,
+        "texto": "Convocatória e Ordem de Trabalhos com os pontos adiados da última Assembleia Municipal Ordinária de 7 de novembro, a serem apreciados no dia 21 de novembro, às 21h00: 6. Apreciação da informação do Sr. Presidente da Câmara acerca da atividade do Município, bem como da situação financeira do mesmo. Em anexo, também, a convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de novembro, com início às 22h30.",
+        "titulo": "Sessão ordinária e extraordinária da Assembleia Municipal (21 de novembro de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/Convocat%C3%B3ria%20da%20AM%20extraordin%C3%A1ria%20de%2021-12-2016.pdf",
+                "Convocatória da AM extraordinária de 21-12-2016"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202016/Reuni%C3%B5es%20da%20AM/OT.pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2016-12-21",
+        "datap": "2016-12-13",
+        "id_n": 9,
+        "idext": "21284",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de dezembro, com início às 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (21 de dezembro de 2016)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Edital%20AM%20extraordin%C3%A1ria.pdf",
+                "Edital I/6676/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos.%20AM.pdf",
+                "Convocatória e Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2017-01-16",
+        "datap": "2017-01-10",
+        "id_n": 10,
+        "idext": "21761",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (16 de janeiro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Edital%2006-02.pdf",
+                "Edital I/3100/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Convocat%C3%B3ria%2006-02.pdf",
+                "Convocatória da AM de 06-02-2017"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/OT.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-02-06",
+        "datap": "2017-01-30",
+        "id_n": 11,
+        "idext": "22163",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 6 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (6 de fevereiro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Edital.pdf",
+                "Edital I/61776/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Convocat%C3%B3ria%20e%20OT..pdf",
+                "Convocatória e Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-03-06",
+        "datap": "2017-02-24",
+        "id_n": 12,
+        "idext": "22754",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 6 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (6 de março de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Edital.pdf",
+                "Edital I/84375/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/Convocat%C3%B3ria%2023-03.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20AM/OT.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-03-23",
+        "datap": "2017-03-15",
+        "id_n": 13,
+        "idext": "23154",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (23 de março de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Edital%20AMOrdin%C3%A1ria%20de%2026%20de%20abril..pdf",
+                "Convocatória da AM de 26-04-2017"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/OT.pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2017-04-26",
+        "datap": "2017-04-05",
+        "id_n": 14,
+        "idext": "23634",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 26 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (26 de abril de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AMO%2008-05.pdf",
+                "Convocatória da AMO (08-05-2017)"
+            ]
+        ],
+        "datae": "2017-05-08",
+        "datap": "2017-04-28",
+        "id_n": 15,
+        "idext": "24083",
+        "present": false,
+        "texto": "Convocatória para a continuação da Assembleia Municipal Ordinária de 26 de abril, a realizar no dia 8 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Assembleia Municipal Ordinária de 26 de abril (8 de maio de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AME%2008-05.pdf",
+                "Convocatória da AME (08-05-2017)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%2008-05.pdf",
+                "Edital I/141009/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/OT.pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2017-05-08",
+        "datap": "2017-04-28",
+        "id_n": 16,
+        "idext": "24084",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 8 de maio, pelas 22 horas e 30 minutos, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": " Sessão extraordinária da Assembleia Municipal (8 de maio de 2017) "
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20AM%20Extraordin%C3%A1ria%2029-05.pdf",
+                "Convocatória da AME (29-05-2017)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%20AM%20Extraordin%C3%A1ria%2029-05.pdf",
+                "Edital I/166029/17/CMP"
+            ]
+        ],
+        "datae": "2017-05-29",
+        "datap": "2017-05-22",
+        "id_n": 17,
+        "idext": "24610",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 29 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (29 de maio de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%2019-06AM.pdf",
+                "Edital I/185865/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%2019-06Am.pdf",
+                "Convocatória AM - 19-06-2017"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/O.T..pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2017-06-19",
+        "datap": "2017-06-19",
+        "id_n": 18,
+        "idext": "25269",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 19 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (19 de junho de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/EDITAL.pdf",
+                "Edital I/199763/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20sess%C3%A3o%20ordin%C3%A1ria.pdf",
+                "Convocatória continuação da AM do dia 19 de junho (26 de junho)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20reuni%C3%A3o%20extraordin%C3%A1ria.pdf",
+                "Convocatória AME (26 de junho)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/OTAME.pdf",
+                "Ordem de Trabalhos da AME"
+            ]
+        ],
+        "datae": "2017-06-26",
+        "datap": "2017-06-21",
+        "id_n": 19,
+        "idext": "25355",
+        "present": false,
+        "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 19 de junho, a realizar no dia 26 de junho, pelas 21 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 19 de junho e Sessão extraordinária da Assembleia Municipal (26 de junho de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital.pdf",
+                "edital I/208108/17"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria.pdf",
+                "Convocatória AME (3 de junho de 2017)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Ordem%20de%20Trabalhos.pdf",
+                "Ordem de Trablhos "
+            ]
+        ],
+        "datae": "2017-07-03",
+        "datap": "2017-06-27",
+        "id_n": 20,
+        "idext": "25499",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 3 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (3 de julho de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%2019.07.2017.pdf",
+                "Edital I/222155/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%2019.07.2017.pdf",
+                "Convocatória AME (19 de julho de 2017)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Ordem%20Trabalhos%2019-07-2017.docx.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-07-19",
+        "datap": "2017-07-11",
+        "id_n": 21,
+        "idext": "25821",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 19 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (19 de julho de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/EDITAL%20N.%20I-272598-17-CMP.pdf",
+                "EDITAL N. I/272598/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/O.T..pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2017-09-06",
+        "datap": "2017-08-24",
+        "id_n": 22,
+        "idext": "26600",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 6 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (6 de setembro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%20assembleia%2016-10.pdf",
+                "Edital I/324639/17"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocatoria16%20outubro.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/O.T.16out.pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2017-10-16",
+        "datap": "2017-10-09",
+        "id_n": 23,
+        "idext": "27627",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (16 de outubro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/edital%20AM%206-10-20172017-10-30-134448.pdf",
+                "Edital I/349939/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria0611.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Ordem%20de%20Trabalhos6-11.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-11-06",
+        "datap": "2017-10-30",
+        "id_n": 24,
+        "idext": "28100",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 6 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (6 de novembro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%2023.11.2017.pdf",
+                "Edital I/364390/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%2023.11.2017.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/O.T.%2023.11.2017.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-11-23",
+        "datap": "2017-11-15",
+        "id_n": 25,
+        "idext": "28400",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (23 de novembro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%204.12.2017.pdf",
+                "Edital I/381818/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20%20O.T.%204.12.2017.pdf",
+                "Convocatória"
+            ]
+        ],
+        "datae": "2017-12-04",
+        "datap": "2017-11-27",
+        "id_n": 26,
+        "idext": "31114",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 4 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (4 de dezembro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%2011.12.2017.pdf",
+                "Edital I/388043/17/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%2011.12.2017.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/O.T.%2011.12.2017.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2017-12-11",
+        "datap": "2017-12-11",
+        "id_n": 27,
+        "idext": "31562",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 11 de dezembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (11 de dezembro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Edital%2018-12-2017.pdf",
+                "Edital I/398035/17"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20Cont.%20Sess%C3%A3o%20Ord..pdf",
+                "Comvocatória continuação AM de 11 de dezembro (18 de dezembro)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/Convocat%C3%B3ria%20Extraordin%C3%A1ria%2018-12-2017.pdf",
+                "Convocatória AME (18 de dezembro)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%20-%202017/Reuni%C3%B5es%20e%20Delibera%C3%A7%C3%B5es%20da%20AM/O.T.%2018.12.2017.pdf",
+                "Ordem de Trabalhos AME (18 de dezembro)"
+            ]
+        ],
+        "datae": "2017-12-18",
+        "datap": "2017-12-12",
+        "id_n": 28,
+        "idext": "31618",
+        "present": false,
+        "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 11 de dezembro, a realizar no dia 18 de dezembro, pelas 21 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 11 de dezembro e Sessão extraordinária da Assembleia Municipal (18 de dezembro de 2017)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2029.01.2018.pdf",
+                "Edital I16149/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2029.01.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/O.T.%2029.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-01-29",
+        "datap": "2018-01-17",
+        "id_n": 29,
+        "idext": "32718",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 29 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (29 de janeiro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20e%20O.T.%20de%2007.02.2018.pdf",
+                "Convocatória "
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2007-02-2018.pdf",
+                "Edital I/33616/18/CMP"
+            ]
+        ],
+        "datae": "2018-02-07",
+        "datap": "2018-01-30",
+        "id_n": 30,
+        "idext": "33038",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 7 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (7 de fevereiro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/edital_26.02.2018.pdf",
+                "Edital I/52147/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/convocat%C3%B3ria_26.02.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/O.T.%2026.02.2018-Ret..pdf",
+                "Ordem de Trabalhos "
+            ]
+        ],
+        "datae": "2018-02-26",
+        "datap": "2018-02-15",
+        "id_n": 31,
+        "idext": "33484",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 26 de fevereiro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (26 de fevereiro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital19-03.pdf",
+                "Edital I/81089/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria19.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/O.%20T.%2019.03.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-03-19",
+        "datap": "2018-03-12",
+        "id_n": 32,
+        "idext": "34142",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 19 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (19 de março de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2023.04.08.pdf",
+                "Edital I/123632/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2023.04.18.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/O.T.%2023.04.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-04-23",
+        "datap": "2018-04-13",
+        "id_n": 33,
+        "idext": "35114",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (23 de abril de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20%2007.05.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2007.05.2017.pdf",
+                "Edital I/142339/18"
+            ]
+        ],
+        "datae": "2018-04-23",
+        "datap": "2018-04-27",
+        "id_n": 34,
+        "idext": "35430",
+        "present": false,
+        "texto": "Irá realizar-se uma reunião da Assembleia Municipal do Porto, no dia 7 de maio de 2018, às 21 horas, na sala das sessões do edifício dos Paços do Concelho, para continuação da Sessão Ordinária iniciada no dia 23 de abril de 2018.Nesta reunião, por se tratar de uma continuação da Sessão Ordinária do dia 23 de abril, não há período de intervenção aberto ao público.",
+        "titulo": "Continuação da Sessão Ordinária iniciada no dia 23 de abril de 2018 (7 de maio de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2021.05.2018.pdf",
+                "Edital I/158873/18"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2021.05.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/O.T.%2021.05.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-05-21",
+        "datap": "2018-05-15",
+        "id_n": 35,
+        "idext": "35858",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 21 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (21 de maio de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2018.06.2018%20AM.pdf",
+                "Edital I/187444/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos%2018.06.2018.pdf",
+                "Convocatória e Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-06-18",
+        "datap": "2018-06-06",
+        "id_n": 36,
+        "idext": "36467",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 18 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (18 de junho de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2025.06.2018.pdf",
+                "Edital I/189486/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2025.06.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2025.06.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-06-25",
+        "datap": "2018-06-15",
+        "id_n": 37,
+        "idext": "36712",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 25 de junho, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (25 de junho de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2009.07.2018.pdf",
+                "Edital I/220906/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20Cont.%20Ord.%2009.07.2018.pdf",
+                "Convocatória Cont. AM Ordinária"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20Ext.%2009.07.2018.pdf",
+                "Convocatória AME"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Extraordin%C3%A1ria%2009.07.2018.pdf",
+                "Ordem de Trabalhos AME"
+            ]
+        ],
+        "datae": "2018-07-09",
+        "datap": "2018-07-02",
+        "id_n": 38,
+        "idext": "37150",
+        "present": false,
+        "texto": "Convocatória para a continuação da sessão ordinária da Assembleia Municipal do dia 25 de junho, a realizar no dia 9 de julho, pelas 21,30 horas, e convocatória para a sessão extraordinária a realizar no mesmo dia, pelas 22,30 horas, ambas na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 25 de junho e Sessão extraordinária da Assembleia Municipal (9 de julho de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2031.07.2018.pdf",
+                "Edital I/241083/18"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2031.07.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2031.07.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-07-31",
+        "datap": "2018-07-24",
+        "id_n": 39,
+        "idext": "39778",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 31 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (31 de julho de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2010.09.2018.pdf",
+                "Edital I/273279/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2010.09.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2010.09.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-09-10",
+        "datap": "2018-09-03",
+        "id_n": 40,
+        "idext": "40572",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 10 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (10 de setembro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2017.09.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2017.09.2018.pdf",
+                "Edital I/307999/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2017.09.2018.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2018-09-17",
+        "datap": "2018-09-11",
+        "id_n": 41,
+        "idext": "40798",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 17 de setembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (17 de setembro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2001.10.2018%20dia%2024.pdf",
+                "EDITAL N.º I/326841/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2001.10.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2001.10.2018.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2018-10-01",
+        "datap": "2018-09-24",
+        "id_n": 42,
+        "idext": "41138",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 1 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (1 de outubro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital_I_346788_18%20dia%2016.pdf",
+                "Edital I/349928/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%2022.10.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2022.10.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-10-22",
+        "datap": "2018-10-15",
+        "id_n": 43,
+        "idext": "41626",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 22 de outubro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (22 de outubro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2012.11.2018.pdf",
+                "Edital I 379404/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20Ord.%20AM%2012.11.2018.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%2012.11.2018.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2018-11-12",
+        "datap": "2018-11-02",
+        "id_n": 44,
+        "idext": "41993",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 12 de novembro, pelas 21h00, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (12 de novembro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocatoria_ContOrdinaria19.11.2018.pdf",
+                "Convocatória Cont. AM Ordinária"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocatoria_Extraordinaria19.11.2018.pdf",
+                "Convocatória AME"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%2019.11.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "erro",
+        "datap": "2018-11-13",
+        "id_n": 45,
+        "idext": "42177",
+        "present": false,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no dia 19 de novembro de 2018, às 21h00, em continuação da Sessão Ordinária iniciada no dia 12 de novembro de 2018, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 12 de novembro e Sessão extraordinária da Assembleia Municipal (19 de novemmbro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%2003.12.2018%20AM.pdf",
+                "Edital I/408444/18/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Convocat%C3%B3ria%20Ext.%2003.12.2018%20AM.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%20AM%2003.12.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-12-03",
+        "datap": "2018-11-27",
+        "id_n": 46,
+        "idext": "42473",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 3 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (3 de dezembro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/edital%20AM%203-12-20182018-12-06-112521.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Edital%20AM%2020.12.2018.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202018/AM/Ordem%20de%20Trabalhos%20AM%2020.12.2018.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2018-12-20",
+        "datap": "2018-12-11",
+        "id_n": 47,
+        "idext": "42759",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 20 de dezembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (20 de dezembro de 2018)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20e%20O.T.%20Ext.%2014.01.2019.pdf",
+                "Convocatória e Ordem de Trabalhos"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2014.01.2019.pdf",
+                "Edital"
+            ]
+        ],
+        "datae": "2019-01-14",
+        "datap": "2019-01-03",
+        "id_n": 48,
+        "idext": "43132",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 14 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (14 de janeiro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Ext.%2028.01.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2028.01.2019.pdf",
+                "EDITAL N.º I/16438/19/CMP "
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2028.01.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-01-28",
+        "datap": "2019-01-18",
+        "id_n": 49,
+        "idext": "43463",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 28 de janeiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (28 de janeiro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ordin%C3%A1ria%2025.02.2019.pdf",
+                "EDITAL N.º I/56249/19/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ord.%20AM%2025.02.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ord.%20AM%2025.02.2019.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-02-25",
+        "datap": "2019-02-13",
+        "id_n": 50,
+        "idext": "43956",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 25 de fevereiro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (25 de fevereiro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2011.03.2019.pdf",
+                "Edital "
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Cont.%20Sess%C3%A3o%20Ordin%C3%A1ria%2011.03.2019.pdf",
+                "Convocatória Cont. AM Ordinária"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Extraordin%C3%A1ria%2011.03.2019.pdf",
+                "Convocatória AME"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2011.03.2019.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-03-11",
+        "datap": "2019-03-04",
+        "id_n": 51,
+        "idext": "44332",
+        "present": false,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 11 de março de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 25 de fevereiro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 25 de fevereiro e Sessão extraordinária da Assembleia Municipal (11 de março de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ext.%20A.M.%2025.03.2019.pdf",
+                "EDITAL N.º I/88646/19/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20A.M.%2025.03.19.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%2025.03.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-03-25",
+        "datap": "2019-03-18",
+        "id_n": 52,
+        "idext": "44569",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 25 de março, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (25 de março de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ordin%C3%A1ria%2029.04.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ordin%C3%A1ria%2029.04.2019.pdf",
+                "EDITAL N.º I/145428/19/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ord.%20AM%20%2029.04.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-04-29",
+        "datap": "2019-04-15",
+        "id_n": 53,
+        "idext": "45356",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 29 de abril, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (29 de abril de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2006.05.2019.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Continua%C3%A7%C3%A3o%20SessOrdin%C3%A1ria%2006.05.2019.pdf",
+                "Convocatória Cont. AM Ordinária"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocatoria_Extr_06.05.2019.pdf",
+                "Convocatória AME"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Extraordin%C3%A1ria%20AM%2006.05.2019.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-05-06",
+        "datap": "2019-04-30",
+        "id_n": 54,
+        "idext": "45561",
+        "present": false,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 6 de maio de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 29 de abril de 2019, seguida de Sessão Extraordinária, às 23h00, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 29 de abril e Sessão extraordinária da Assembleia Municipal (6 de maio de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%2013.05.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2013.05.2019.pdf",
+                "EDITAL N.º I/171680/19/CMP"
+            ]
+        ],
+        "datae": "2019-05-13",
+        "datap": "2019-05-07",
+        "id_n": 55,
+        "idext": "45694",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 13 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (13 de maio de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20AM%2027.05.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ext.%20AM%2027.05.2019.pdf",
+                "EDITAL N.º I/194523/19/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2027.05.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-05-27",
+        "datap": "2019-05-21",
+        "id_n": 56,
+        "idext": "45953",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 27 de maio, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (27 de maio de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ord.%20AM%2012.06.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ord.%20AM%2012.06.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-06-12",
+        "datap": "2019-05-31",
+        "id_n": 57,
+        "idext": "46152",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 12 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (12 de junho de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20O.T.%20sess%C3%A3o%20extraord.%2017.06.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2017.06.2019.pdf",
+                "EDITAL N.º I/221847/19/CMP"
+            ]
+        ],
+        "datae": "2019-06-17",
+        "datap": "2019-06-11",
+        "id_n": 58,
+        "idext": "46332",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 17 de junho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (17 de junho de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%2025.06.2019.pdf",
+                "EDITAL N.º I/228543/19/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Cont.%20Sess%C3%A3o%20Ord.%20AM%2025.06.2019.pdf",
+                "Convocátoria Cont. AM 12 Junho"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20AM%2025.06.2019.pdf",
+                "Convocatória AME"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2025.06.2019.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-06-25",
+        "datap": "2019-06-18",
+        "id_n": 59,
+        "idext": "46454",
+        "present": false,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 25 de junho de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 12 de junho de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 12 de junho e Sessão extraordinária da Assembleia Municipal (25 de junho de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20AM%2008.07.2019.docx.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital_08.07.2019%20AM.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Extraordin%C3%A1ria%2008.07.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-07-08",
+        "datap": "2019-07-01",
+        "id_n": 60,
+        "idext": "46650",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 8 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (8 de julho de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20extraordin%C3%A1ria%20A.M.%2015.07.2019.pdf",
+                "EDITAL N.º I/249085/19/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Extraord.%20Assembleia%20Municipal%2015.07.2019.docx.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-07-15",
+        "datap": "2019-07-09",
+        "id_n": 61,
+        "idext": "46812",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 15 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (15 de julho de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ext.%20AM%2022.07.2019.pdf",
+                "EDITAL N.º 254886/2019/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2022.07.2019.pdf",
+                "Convocatória"
+            ]
+        ],
+        "datae": "2019-07-22",
+        "datap": "2019-07-16",
+        "id_n": 62,
+        "idext": "46931",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 22 de julho, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (22 de julho de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ext.%20AM%2011.09.2019.pdf",
+                "Edital Nº 309956/2019/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2011.09.2019.pdf",
+                "Convocatória e ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-09-11",
+        "datap": "2019-09-02",
+        "id_n": 63,
+        "idext": "47592",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 11 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (11 de setembro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital_16.09.2019%20AM.doc.pdf",
+                ""
+            ]
+        ],
+        "datae": "2019-09-16",
+        "datap": "2019-09-09",
+        "id_n": 64,
+        "idext": "47753",
+        "present": false,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 16 de setembro 2019, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão Ordinária da Assembleia Municipal, a realizar no dia 16 de setembro 2019, pelas 21 horas"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/Convocat%C3%B3ria_Cont.%20Sess%C3%A3o%20Ordin%C3%A1ria_23.09.2019.pdf",
+                ""
+            ]
+        ],
+        "datae": "2019-09-16",
+        "datap": "2019-09-17",
+        "id_n": 65,
+        "idext": "47888",
+        "present": false,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 23 de setembro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 16 de setembro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da sessão ordinária do dia 16 de setembro de 2019 (23 de setembro 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/Convocat%C3%B3ria_Sess%C3%A3o%20Extraordin%C3%A1ria_23.09.2019.pdf",
+                "Sessão extraordinária da Assembleia Municipal"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Extraord.%20AM_%2023.09.2019.docx.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-09-23",
+        "datap": "2019-09-17",
+        "id_n": 66,
+        "idext": "47889",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de setembro, pelas 22 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal, a realizar no dia 23 de setembro 2019"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20A.M.%20Ext.%2030.09.2019.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos%20A.M.%20Ext.%2030.09.2019.pdf",
+                "Convocatória e ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-09-30",
+        "datap": "2019-09-20",
+        "id_n": 67,
+        "idext": "47987",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 30 de setembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (30 de setembro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20AM_14.10.2019.pdf",
+                "EDITAL N.º 359006/2019/CMP"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria_%20Cont.%20Sess%C3%A3o%20Extraord.%20AM%20_14.10.2019.docx.pdf",
+                "Convocatória cont. AM 23 setembro"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria_Sess%C3%A3o%20Extraordin%C3%A1ria%20AM_14.10.2019.pdf",
+                "Convocatória AME"
+            ]
+        ],
+        "datae": "2019-10-14",
+        "datap": "2019-10-08",
+        "id_n": 68,
+        "idext": "48294",
+        "present": false,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 14 de outubro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 23 de setembro de 2019, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 23 de setembro e Sessão extraordinária da Assembleia Municipal (14 de outubro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital_Sess%C3%A3o%20Extraordin%C3%A1ria%20AM_21.10.2019.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria_Sess%C3%A3o%20Extraordin%C3%A1ria%20AM_21.10.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20desconvoca%20Sess%C3%A3o%20Extraordin%C3%A1ria%2021.10.2019.pdf",
+                "Edital -  Desconvoca Sessão Extraordinária (21 outubro 2019) "
+            ]
+        ],
+        "datae": "2019-10-21",
+        "datap": "2019-10-15",
+        "id_n": 69,
+        "idext": "48409",
+        "present": false,
+        "texto": "Sessão Extraordinária da Assembleia agendada para o dia 21 de outubro de 2019, às 21h00, foi desconvocada.",
+        "titulo": "Desconvocada a Sessão extraordinária da Assembleia Municipal (21 de outubro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ord.%20AM%2004.11.2019.pdf",
+                "Sessão ordinária da Assembleia Municipal (4 de novembro de 2019)"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ord.%20AM%2004.11.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ord.%20AM%2004.11.2019.pdf",
+                "Ordem de Trabalhos"
+            ]
+        ],
+        "datae": "2019-11-04",
+        "datap": "2019-10-28",
+        "id_n": 70,
+        "idext": "48614",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 4 de novembro, pelas 21 horas, na sala das sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão ordinária da Assembleia Municipal (4 de novembro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20AM%20Ext.%2011.11.2019.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Cont.%20Sess%C3%A3o%20Ord.%20AM%2004.11.2019_11.11.2019.pdf",
+                "Convocatória cont. AM 4 novembro"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20AM%2011.11.2019.pdf",
+                "Convocatória AME 11 novembro"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2011.11.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-11-11",
+        "datap": "2019-11-05",
+        "id_n": 71,
+        "idext": "48765",
+        "present": false,
+        "texto": "Convocatórias para as reuniões da Assembleia Municipal do Porto, no dia 11 de novembro de 2019, às 21h00, em continuação da Sessão Ordinária iniciada no dia 4 de novembro de 2019, seguida de uma Sessão Extraordinária, às 22h30, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Continuação da Sessão ordinária do dia 4 de novembro e Sessão extraordinária da Assembleia Municipal (11 de novembro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20A.M.%20Ext.%2002.12.2019.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20A.M.%20Ext.%2002.12.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20A.M.%2002.12.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-12-02",
+        "datap": "2019-11-26",
+        "id_n": 72,
+        "idext": "49134",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 2 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (2 de dezembro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Edital%20Sess%C3%A3o%20Ext.%20AM%2016.12.2019.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20AM%2016.12.2019.pdf",
+                "Convocatória"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/EDITAIS%202019/AM/Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2016.12.2019.pdf",
+                "Ordem de trabalhos"
+            ]
+        ],
+        "datae": "2019-12-16",
+        "datap": "2019-12-09",
+        "id_n": 73,
+        "idext": "49359",
+        "present": false,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (16 de dezembro de 2019)"
     }
 ]
