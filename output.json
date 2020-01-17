@@ -1653,5 +1653,25 @@
         "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 16 de dezembro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (16 de dezembro de 2019)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Edital%20Sess%C3%A3o%20Ext.%20AM%2013.01.2020.doc.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ext.%20AM%2013.01.2020.pdf",
+                "Convocatória"
+            ]
+        ],
+        "datae": "2020-01-13",
+        "datap": "2020-01-07",
+        "id_n": 74,
+        "idext": "49757",
+        "link": "https://www.google.com/calendar/event?eid=MWZibWk0ZGg0OTc2Z2dlZ3RiOGlnbDlqbTAgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
+        "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 13 de janeiro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "Sessão extraordinária da Assembleia Municipal (13 de janeiro de 2020)"
     }
 ]

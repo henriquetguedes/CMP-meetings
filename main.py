@@ -2,8 +2,14 @@ from addcal import *
 import requests
 import re
 import json
+from pushbullet import Pushbullet
 from bs4 import BeautifulSoup as bsoup
 from datetime import datetime, timedelta
+
+with open('../credenciais/pushbullet.json', 'r') as myfile:
+    data=json.load(myfile)
+api_key = data["pbtoken"]
+pb = Pushbullet(api_key)
 
 with open("output.json", "r", encoding="utf-8") as lista:
     entradas = json.load(lista)
@@ -83,6 +89,7 @@ with open("output.json", "w", encoding="utf-8") as f:
     json.dump(entradas, f, default=str, indent=4, sort_keys=True,ensure_ascii=False)
 
 eventados = 0
+email = []
 
 for eve in range(len(entradas)):
     if entradas[eve]['present'] == False:
@@ -103,6 +110,8 @@ for eve in range(len(entradas)):
 
             entradas[eve]['link'] = link
             entradas[eve]['present'] = True
+
+            push = pb.push_list("Adicionados", [entradas[eve]['titulo'],entradas[eve]['datae'],link])
             eventados +=1
         except Exception as e:
                 print(e)
