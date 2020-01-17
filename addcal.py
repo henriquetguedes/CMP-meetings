@@ -2,6 +2,8 @@ from __future__ import print_function
 import datetime
 import pickle
 import os.path
+import smtplib
+from email.message import EmailMessage
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -48,11 +50,11 @@ def adiciona(nome, desc, dataini):
       'location': 'Câmara Municipal do Porto, R. Clube dos Fenianos 5, 4000-407 Porto, Portugal',
       'description': desc,
       'start': {
-        'dateTime': dataini+"T00:00:00.000",
+        'dateTime': str(datetime.datetime.strptime(dataini, "%Y-%m-%d")).replace(" ","T"),
         'timeZone': 'Europe/Lisbon',
       },
       'end': {
-        'dateTime': dataini+"T23:59:59.999",
+        'dateTime': str(datetime.datetime.strptime(dataini, "%Y-%m-%d") + datetime.timedelta(1)).replace(" ","T"),
         'timeZone': 'Europe/Lisbon',
       },
       'recurrence': [
@@ -69,3 +71,15 @@ def adiciona(nome, desc, dataini):
     event = service.events().insert(calendarId=idcal, body=event).execute()
     print ('Event created: %s' % (event.get('htmlLink')))
     return(event.get('htmlLink'))
+
+#msg = EmailMessage()
+#msg.set_content("shjdbjhsbfdjhdbjhfbdjhfbgjhdbfg")
+#
+#msg['Subject'] = "teste"
+#msg['From'] = "henriquetguedes+t@teste.com"
+#msg['To'] = "henriquetguedes@gmail.com"
+#
+## Send the message via our own SMTP server.
+#s = smtplib.SMTP('localhost')
+#s.send_message(msg)
+#s.quit()
