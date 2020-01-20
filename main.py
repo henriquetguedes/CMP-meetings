@@ -112,7 +112,7 @@ for eve in range(len(entradas)):
             entradas[eve]['link'] = link
             entradas[eve]['present'] = True
             email.append([entradas[eve]['titulo'],entradas[eve]['datae'],link])
-            push = pb.push_list("Adicionados", [entradas[eve]['titulo'],entradas[eve]['datae'],link])
+            #push = pb.push_list("Adicionados", [entradas[eve]['titulo'],entradas[eve]['datae'],link])
             eventados +=1
         except Exception as e:
                 print(e)
@@ -123,9 +123,11 @@ with open("output.json", "w", encoding="utf-8") as f:
     json.dump(entradas, f, default=str, indent=4, sort_keys=True,ensure_ascii=False)
 
 if len(email) > 0:
-    corpo = "Em " + str(datetime.strftime()) + " foram adicionados<br><ul>"
-    for i in range(email):
-        corpo = corpo + '<li><a href="'+ email[i][2] + '"> '+email[i][0]+'</a> - no dia '+email[i][1]+'</li>'
+    corpo = "Em " + str("hoje") + " foram adicionados<br><ul>"
+    mensagem = "Adicionados hoje:"
+    for i in range(len(email)):
+        corpo = corpo + '<li><a href="'+ email[i][2] + '"> '+email[i][0]+'</a> - nm o dia '+email[i][1]+'</li>'
+        mensagem = mensagem + "\n\n-Data: "+email[i][1]+"\n---"+email[i][0]+"\n---"+ email[i][2]
     corpo = corpo + "</ul>"
-    print(corpo) ### é para ser mandar o email aqui
-
+    #print(corpo) ### é para ser mandar o email aqui
+    pb.push_note("Adicionados",mensagem)
