@@ -69,7 +69,7 @@ for n in mydivs:
             entrada = {
                 "id_n": numero,
                 "idext": idext,
-                "titulo": "CMPorto" + nome,
+                "titulo": "CMPorto " + nome,
                 "datap": datapub,
                 "datae": dataeve,
                 "present": False,

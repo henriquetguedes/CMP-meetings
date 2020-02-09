@@ -1014,7 +1014,7 @@
         "datap": "2018-11-13",
         "id_n": 45,
         "idext": "42177",
-        "present": false,
+        "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no dia 19 de novembro de 2018, às 21h00, em continuação da Sessão Ordinária iniciada no dia 12 de novembro de 2018, seguida de Sessão Extraordinária, às 22h00, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Continuação da Sessão ordinária do dia 12 de novembro e Sessão extraordinária da Assembleia Municipal (19 de novemmbro de 2018)"
     },
@@ -1689,5 +1689,25 @@
         "present": true,
         "texto": "Convocatória para a sessão extraordinária da Assembleia Municipal, a realizar no dia 27 de janeiro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "Sessão extraordinária da Assembleia Municipal (27 de janeiro de 2020)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Edital%20Sess%C3%A3o%20Ord.%20AM%2017.02.2020.doc.pdf",
+                "Edital"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ord.%20AM%2017.02.2020.docx.pdf",
+                "Convocatória 17 fevereiro"
+            ]
+        ],
+        "datae": "2020-02-17",
+        "datap": "2020-02-07",
+        "id_n": 76,
+        "idext": "50312",
+        "link": "https://www.google.com/calendar/event?eid=ZDJpdDEzM2dvb3I5bzRnbDhrbzAwZTJzNzggNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
+        "texto": "Convocatória para a sessão ordinária da Assembleia Municipal, a realizar no dia 17 de fevereiro, pelas 21 horas, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "CMPortoSessão ordinária da Assembleia Municipal (17 de fevereiro de 2020)"
     }
 ]
