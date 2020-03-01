@@ -132,3 +132,5 @@ if len(email) > 0:
     corpo = corpo + "</ul>"
     #print(corpo) ### é para ser mandar o email aqui
     pb.push_note("Adicionados",mensagem)
+
+pb.push_note("Correu", "correu em " str(datetime.now))
