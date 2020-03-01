@@ -5,8 +5,9 @@ import json
 from pushbullet import Pushbullet
 from bs4 import BeautifulSoup as bsoup
 from datetime import datetime, timedelta
+from pathlib import Path
 
-with open('../credenciais/pushbullet.json', 'r') as myfile:
+with open(Path().resolve().parent / 'credenciais'/ 'pushbullet.json', 'r') as myfile:
     data=json.load(myfile)
 api_key = data["pbtoken"]
 pb = Pushbullet(api_key)
