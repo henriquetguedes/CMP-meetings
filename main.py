@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from addcal import *
 import requests
 import re
