@@ -7,13 +7,15 @@ from pushbullet import Pushbullet
 from bs4 import BeautifulSoup as bsoup
 from datetime import datetime, timedelta
 from pathlib import Path
+import os
 
-with open(Path().resolve().parent / 'credenciais'/ 'pushbullet.json', 'r') as myfile:
+
+with open(Path(__file__).resolve().parent.parent / 'credenciais'/ 'pushbullet.json', 'r') as myfile:
     data=json.load(myfile)
 api_key = data["pbtoken"]
 pb = Pushbullet(api_key)
 
-with open("output.json", "r", encoding="utf-8") as lista:
+with open(Path(__file__).resolve().parent / 'output.json', "r", encoding="utf-8") as lista:
     entradas = json.load(lista)
 listaexist = [d['idext'] for d in entradas]
 #entradas = []
@@ -88,7 +90,7 @@ for n in mydivs:
 
 print("Foram descobertos %s eventos relevantes, adicionados %s novos" %(numero,adicionados))
 
-with open("output.json", "w", encoding="utf-8") as f:
+with open(Path(__file__).resolve().parent / 'output.json', "w", encoding="utf-8") as f:
     json.dump(entradas, f, default=str, indent=4, sort_keys=True,ensure_ascii=False)
 
 eventados = 0
@@ -121,7 +123,7 @@ for eve in range(len(entradas)):
 
 print("Foram adicionados %s novos eventos ao calendário" %(eventados))
 
-with open("output.json", "w", encoding="utf-8") as f:
+with open(Path(__file__).resolve().parent / 'output.json', "w", encoding="utf-8") as f:
     json.dump(entradas, f, default=str, indent=4, sort_keys=True,ensure_ascii=False)
 
 if len(email) > 0:

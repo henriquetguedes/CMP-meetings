@@ -1737,5 +1737,29 @@
         "present": true,
         "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 02 de março de 2020, às 21h00, em continuação da Sessão Ordinária iniciada no dia 17 de fevereiro de 2020, seguida de Sessão Extraordinária, às 22h30, na Sala das Sessões do edifício dos Paços do Concelho.",
         "titulo": "CMPorto Continuação da Sessão ordinária do dia 17 de fevereiro e Sessão extraordinária da Assembleia Municipal (02 de março de 2020)"
+    },
+    {
+        "anexos": [
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos%20Cont.%20Sess%C3%A3o%20Ext.%20AM%2009.03.2020.pdf",
+                "Convocatória e Ordem de Trabalhos Cont. AM 2 de março"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Convocat%C3%B3ria%20e%20Ordem%20de%20Trabalhos%20Sess%C3%A3o%20Ext.%20AM%2009.03.2020.pdf",
+                "Convocatória e Ordem de Trabalhos AM 9 de março"
+            ],
+            [
+                "http://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202020/AM/Edital%20Sess%C3%A3o%20Ext.%20AM%2009.03.2020.pdf",
+                "Edital"
+            ]
+        ],
+        "datae": "2020-03-09",
+        "datap": "2020-03-03",
+        "id_n": 78,
+        "idext": "50752",
+        "link": "https://www.google.com/calendar/event?eid=Y281cm5rNWoyNWMzdDc0aWwyc3U2bWhtOHMgNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
+        "texto": "Convocatórias para uma reunião da Assembleia Municipal do Porto, no 9 de março de 2020, às 21h00, em continuação da Sessão extraordinária iniciada no dia 2 de março de 2020, seguida de Sessão Extraordinária, às 21h45, na Sala das Sessões do edifício dos Paços do Concelho.",
+        "titulo": "CMPorto Continuação da Sessão extraordinária do dia 2 de março e Sessão extraordinária da Assembleia Municipal (09 de março de 2020)"
     }
 ]
