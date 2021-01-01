@@ -120,6 +120,7 @@ for eve in range(len(entradas)):
             eventados +=1
         except Exception as e:
                 print(e)
+                pb.push_note("Erro",str(e))
 
 print("Foram adicionados %s novos eventos ao calendário" %(eventados))
 
