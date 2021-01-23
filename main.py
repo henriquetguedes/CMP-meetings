@@ -61,6 +61,7 @@ for n in mydivs:
                 dataeve = dataeve[0][2]+"-"+dataeve[0][1].replace("dezembro","12").replace("novembro","11").replace("outubro","10").replace("setembro","09").replace("agosto","08").replace("julho","07").replace("junho","06").replace("maio","05").replace("abril","04").replace("março","03").replace("fevereiro","02").replace("janeiro","01")+"-"+str("{:02d}".format(int(dataeve[0][0])))
                 if (datetime.strptime(dataeve,"%Y-%m-%d")-datetime.strptime(datapub,"%Y-%m-%d")).days < 1:
                     print("EVENTO NO MESMO DIA OU JÁ PASSADO \nPublicado a : %s\nPrevisto para: %s" %(datapub,dataeve))
+                    pb.push_note("ALERTA", "Evento no mesmo dia ou já passado")
             except Exception as e:
                 print(e)
                 dataeve = "erro"
