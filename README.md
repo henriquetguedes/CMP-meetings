@@ -10,10 +10,12 @@ Web scraper that emails notifications regarding City Hall meetings
 ### Requirements
 
 * [Google Calendar API](https://developers.google.com/calendar/quickstart/python)
+* [BeautifulSoup 4](https://pypi.org/project/beautifulsoup4/)
+* [PushBullet Python API - pushbullet.py](https://pypi.org/project/pushbullet.py/0.9.1/)
 
 ## To be implemented
 
 * Getting the start time of the meeting
 * Web page listing the events with links for adding to one's calendar
 * Email notification subscription for new events
-* RSS feed/Pushbullet integration
+* RSS feed
