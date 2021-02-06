@@ -2045,5 +2045,25 @@
         "present": true,
         "texto": "Sessão Extraordinária da Assembleia Municipal do Porto, a realizar no dia 01 de fevereiro de 2021, segunda-feira, às 17 horas, através de videoconferência, nos termos do art.º 3 da Lei n.º 1-A/2020, de 19 de março.",
         "titulo": "CMPorto Sessão extraordinária da Assembleia Municipal (1 de fevereiro de 2020)"
+    },
+    {
+        "anexos": [
+            [
+                "https://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202021/AM/Convocat%C3%B3ria%20Sess%C3%A3o%20Ord.%20AM%2015.02.2021.pdf",
+                "Convocatória"
+            ],
+            [
+                "https://www.cm-porto.pt/assets/misc/documentos/editais/Editais%202021/AM/Edital%20Sess%C3%A3o%20Ord.%20AM%2015.02.2021.pdf",
+                "Edital"
+            ]
+        ],
+        "datae": "2021-02-15",
+        "datap": "2021-02-05",
+        "id_n": 93,
+        "idext": "56565",
+        "link": "https://www.google.com/calendar/event?eid=bGk5ZGhrZzdoZXZ2ZDQxdjdhaGtqaWJsNDggNnNvOG00MTQ0NWZudDFoZmhsYTVyM2MxM2tAZw",
+        "present": true,
+        "texto": "Sessão Ordinária da Assembleia Municipal do Porto, a realizar no dia 15 de fevereiro de 2021, segunda-feira, às 17 horas, através de videoconferência, nos termos do art.º 3.º da Lei n.º 1-A/2020, de 19 de março.",
+        "titulo": "CMPorto Sessão extraordinária da Assembleia Municipal (15 de fevereiro de 2021)"
     }
 ]
