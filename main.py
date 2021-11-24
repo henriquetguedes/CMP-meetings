@@ -1,19 +1,31 @@
 #!/usr/bin/env python3
+from requests.sessions import merge_setting
 from addcal import *
 import requests
 import re
 import json
-from pushbullet import Pushbullet
+#from pushbullet import Pushbullet
 from bs4 import BeautifulSoup as bsoup
 from datetime import datetime, timedelta
 from pathlib import Path
 import os
 
-
-with open(Path(__file__).resolve().parent.parent / 'credenciais'/ 'pushbullet.json', 'r') as myfile:
+with open(Path(__file__).resolve().parent.parent / 'credenciais'/ 'telegram.json', 'r') as myfile:
     data=json.load(myfile)
-api_key = data["pbtoken"]
-pb = Pushbullet(api_key)
+token = data["teletoken"]
+chat_id = data["mynot_chatid"]
+method = "sendMessage"
+
+def msgTele(msggram, silent: bool = False):
+    response = requests.post(url='https://api.telegram.org/bot{0}/{1}'.format(token, method), data={
+                             'chat_id': chat_id, 'text': mensagem, 'disable_notification': silent})
+
+
+
+#with open(Path(__file__).resolve().parent.parent / 'credenciais'/ 'pushbullet.json', 'r') as myfile:
+#    data=json.load(myfile)
+#api_key = data["pbtoken"]
+#pb = Pushbullet(api_key)
 
 with open(Path(__file__).resolve().parent / 'output.json', "r", encoding="utf-8") as lista:
     entradas = json.load(lista)
@@ -61,7 +73,8 @@ for n in mydivs:
                 dataeve = dataeve[0][2]+"-"+dataeve[0][1].replace("dezembro","12").replace("novembro","11").replace("outubro","10").replace("setembro","09").replace("agosto","08").replace("julho","07").replace("junho","06").replace("maio","05").replace("abril","04").replace("março","03").replace("fevereiro","02").replace("janeiro","01")+"-"+str("{:02d}".format(int(dataeve[0][0])))
                 if (datetime.strptime(dataeve,"%Y-%m-%d")-datetime.strptime(datapub,"%Y-%m-%d")).days < 1:
                     print("EVENTO NO MESMO DIA OU JÁ PASSADO \nPublicado a : %s\nPrevisto para: %s" %(datapub,dataeve))
-                    pb.push_note("ALERTA", "Evento no mesmo dia ou já passado")
+                    msggram = "ALERTA: Evento no mesmo dia ou já passado" #pb.push_note("ALERTA", "Evento no mesmo dia ou já passado")
+                    msgTele(msggram, True)
             except Exception as e:
                 print(e)
                 dataeve = "erro"
@@ -121,7 +134,8 @@ for eve in range(len(entradas)):
             eventados +=1
         except Exception as e:
                 print(e)
-                pb.push_note("Erro",str(e))
+                msggram = "Erro:" + "\n" + str(e)
+                msgTele(msggram, True)  #pb.push_note("Erro",str(e))
 
 print("Foram adicionados %s novos eventos ao calendário" %(eventados))
 
@@ -136,6 +150,7 @@ if len(email) > 0:
         mensagem = mensagem + "\n\n-Data: "+email[i][1]+"\n---"+email[i][0]+"\n---"+ email[i][2]
     corpo = corpo + "</ul>"
     #print(corpo) ### é para ser mandar o email aqui
-    pb.push_note("Adicionados",mensagem)
+    msggram = "Adicionados:" + "\n" + mensagem
+    msgTele(msggram, True) #pb.push_note("Adicionados",mensagem)
 
-pb.push_note("Correu", "agora")
+msgTele("Correu agora", True) #pb.push_note("Correu", "agora")
