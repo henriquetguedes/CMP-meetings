@@ -18,7 +18,7 @@ method = "sendMessage"
 
 def msgTele(msggram, silent: bool = False):
     response = requests.post(url='https://api.telegram.org/bot{0}/{1}'.format(token, method), data={
-                             'chat_id': chat_id, 'text': mensagem, 'disable_notification': silent})
+                             'chat_id': chat_id, 'text': msggram, 'disable_notification': silent})
 
 
 
@@ -32,8 +32,11 @@ with open(Path(__file__).resolve().parent / 'output.json', "r", encoding="utf-8"
 listaexist = [d['idext'] for d in entradas]
 #entradas = []
 url = "http://www.cm-porto.pt/editais/c/assembleia-municipal"
-page = requests.get(url)
-
+try:
+    page = requests.get(url)
+except Exception as e:
+    msgTele("CMP scraper deu asneira:"+"\n"+str(e), True)
+    
 sopa = bsoup(page.content, 'html.parser')
 mydivs = sopa.findAll("div", {"class": "object 87"})
 mydivs.reverse()
