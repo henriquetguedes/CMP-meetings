@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 from requests.sessions import merge_setting
 from addcal import *
 from telebot import msgTele
